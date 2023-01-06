@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @1YiB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+1YiB.pages.dev
 
-<!---
-1YiB/1YiB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  devto - <kbd>1YiB</kbd><br>
+  hashnode - <kbd>1YiB</kbd><br>
+  discord - <kbd>1YiB#0000</kbd><br>
+  codewars - <kbd>1YiB</kbd>
